@@ -2,4 +2,4 @@
 
 Experimental proof-of-concept feature for wordseveryday.net
 
-Live site: https://ecstatic-thompson-8510e5.netlify.app/
+Live site: https://ecstatic-thompson-8510e5.netlwify.app/
